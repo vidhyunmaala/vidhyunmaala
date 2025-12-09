@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabariyuhendh&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=vidhyunmaala &color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/vidhyunmaala?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/vidhyunmaala?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
