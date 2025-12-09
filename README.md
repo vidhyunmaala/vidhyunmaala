@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF60A8&text=Vidhyunmaala%20L&fontColor=FFFFFF&desc=FULL%20STACK%20DEVELOPER&descAlign=50&descAlignY=74" alt="Header" />
 
-<img src="" alt="Typing SVG" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70F36&width=435&lines=Bridging+ideas+and+interfaces%2C;Turning+code+into+experiences%2C;Master+of+both+sides+of+tech%2C;The+full+stack+developer." alt="Typing SVG" /></a>
+<img src="alt="Typing SVG" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70F36&width=435&lines=Bridging+ideas+and+interfaces%2C;Turning+code+into+experiences%2C;Master+of+both+sides+of+tech%2C;The+full+stack+developer." alt="Typing SVG" /></a>
 
 </div>
 
