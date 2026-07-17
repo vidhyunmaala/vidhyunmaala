@@ -70,8 +70,8 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 4 | 1425 |
-| **CodeChef** | 276 | 942 |
+| **LeetCode** | 276 | 1459 |
+| **CodeChef** | 388 | 1368 |
 | **CodeForces** | 18 | 1154 |
 
 ---
